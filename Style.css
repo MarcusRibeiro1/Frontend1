@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#corpo {
+    background-image: url(https://imagepng.org/wp-content/uploads/2017/10/bandeira-canada.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#titulo {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-family:'Rubik', sans-serif;
+    font-size: 40px;
+}
+
+#resumo {
+    background-color: rgba(255, 255, 255, 0.767);
+    padding: 20px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+}
+
+#principal{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.curiosidades{
+    background-color: rgba(0, 0, 0);
+    background-size: 700px; 
+    margin: 0px 800px 0px 800px;
+}
+
+.subtitulo{
+    color: white;
+    font-size: 40px;
+    font-style: italic;
+}
+
+ul{
+    color: red;
+    font-size: 20px;  
+   
+}
+
+#rodape {
+    text-align: center;
+    padding: 20px;
+    height: 20px;
+    width: 10px;
+    display: inline;  
+    margin-left: 43%;
+    margin-right: auto;
+    
+}
+
+.icones {
+    margin: 20px;;
+    height: 70px;
+    width: 70px;
+    margin-top: 50px;
+}
